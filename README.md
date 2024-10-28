@@ -49,9 +49,3 @@ This repository includes various projects focused on implementing different comp
 - **Description**: Implements non-maximum suppression to thin out detected edges, preserving only the most significant ones.
 - **Files**: `non_maximum_suppression.ipynb`
 
-## Installation
-
-To run these projects, ensure you have Python and the necessary libraries installed. You can install the required libraries using:
-
-```bash
-pip install -r requirements.txt
