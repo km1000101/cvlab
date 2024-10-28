@@ -12,11 +12,6 @@ Welcome to the Computer Vision Lab Projects repository! This repository contains
   - [Laplacian Edge Detection](#laplacian-edge-detection)
   - [Frequency Domain Analysis](#frequency-domain-analysis)
   - [Non-Maximum Suppression](#non-maximum-suppression)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
